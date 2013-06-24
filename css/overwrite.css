@@ -1,0 +1,12 @@
+/* links */
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.fs36 { font-size: 36px !important; }
+.fs20 { font-size: 23px !important; }
+
+.pinboard > div > div {
+    font-size: 43px;
+}
